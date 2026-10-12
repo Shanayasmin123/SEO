@@ -5,8 +5,8 @@ function Services() {
   return (
     <>
 <SEO
-  title="Our Services"
-  description="Explore hair styling, skincare and beauty treatments at Glow Beauty Salon."
+  title="Services"
+  description="Explore professional hair styling, skincare and beauty services at Glow Beauty Salon."
   path="/services"
 />
 

@@ -5,7 +5,7 @@ function About() {
     <>
 <SEO
   title="About Us"
-  description="Learn about Glow Beauty Salon, our team and our beauty services."
+  description="Learn about Glow Beauty Salon and our approach to professional beauty care."
   path="/about"
 />
 
